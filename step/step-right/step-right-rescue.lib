@@ -37,11 +37,11 @@ X 6/PD7 9 -700 -250 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# SW_PUSH-RESCUE-fourier-left
+# SW_PUSH-RESCUE-step-right
 #
-DEF SW_PUSH-RESCUE-fourier-left SW 0 40 N N 1 F N
+DEF SW_PUSH-RESCUE-step-right SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "SW_PUSH-RESCUE-fourier-left" 0 -80 50 H V C CNN
+F1 "SW_PUSH-RESCUE-step-right" 0 -80 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -52,11 +52,11 @@ X 2 2 300 0 200 L 50 50 0 1 P I
 ENDDRAW
 ENDDEF
 #
-# TEST_1P-RESCUE-fourier-left
+# TEST_1P-RESCUE-step-right
 #
-DEF TEST_1P-RESCUE-fourier-left J 0 30 N N 1 F N
+DEF TEST_1P-RESCUE-step-right J 0 30 N N 1 F N
 F0 "J" 0 270 50 H V C CNN
-F1 "TEST_1P-RESCUE-fourier-left" 0 200 50 H V C CNN
+F1 "TEST_1P-RESCUE-step-right" 0 200 50 H V C CNN
 F2 "" 200 0 50 H I C CNN
 F3 "" 200 0 50 H I C CNN
 DRAW
@@ -65,11 +65,11 @@ X 1 1 0 0 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TRRS-RESCUE-fourier-left
+# TRRS-RESCUE-step-right
 #
-DEF TRRS-RESCUE-fourier-left U 0 40 Y Y 1 F N
+DEF TRRS-RESCUE-step-right U 0 40 Y Y 1 F N
 F0 "U" 0 600 60 H V C CNN
-F1 "TRRS-RESCUE-fourier-left" 0 -100 60 H V C CNN
+F1 "TRRS-RESCUE-step-right" 0 -100 60 H V C CNN
 F2 "" 150 0 60 H I C CNN
 F3 "" 150 0 60 H I C CNN
 DRAW

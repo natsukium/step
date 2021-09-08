@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name step-right-rescue)(type Legacy)(uri ${KIPRJMOD}/step-right-rescue.lib)(options "")(descr ""))
+)

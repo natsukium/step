@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ../gerbers/fourier-left-bottom/))
+      (outputdirectory ../gerbers/step-left-bottom/))
   )
 
   (net 0 "")
@@ -236,7 +236,7 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (module Keebio-Parts:VIA-0.6mm (layer F.Cu) (tedit 5A7A10DD) (tstamp 5A7A910E)
+  (module natsukium-Parts:VIA-0.6mm (layer F.Cu) (tedit 5A7A10DD) (tstamp 5A7A910E)
     (at 74.6 66.225)
     (fp_text reference REF** (at 0 1.4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -248,7 +248,7 @@
       (net 1 GND) (zone_connect 2))
   )
 
-  (module Keebio-Art:Keebio-TwoTone (layer B.Cu) (tedit 0) (tstamp 5A7AD178)
+  (module natsukium-Art:natsukium-TwoTone (layer B.Cu) (tedit 0) (tstamp 5A7AD178)
     (at 78.58125 61.317188 180)
     (fp_text reference G*** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (thickness 0.3)) (justify mirror))
